@@ -1,0 +1,30 @@
+.card-bg{
+    background-color: #333;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 290px;
+    text-align: center;
+}
+
+.card .content {
+    padding:0 .7rem;
+}
+.card .content h3{
+    text-align: center;
+}
+.btn{
+    text-align: right;
+}
+button{
+    color: orange;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+.mt{
+    margin-top: .5rem;
+}

@@ -1,0 +1,19 @@
+.sec_3{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 2rem;
+}
+.sec_3 .left-card{
+    width: 50%;
+    padding: 1rem;
+}
+.sec_3 .right-card{
+    width: 50%;
+    background-color: #333; 
+    height: 250px;
+}
+.sec_3 h2{
+    color: initial;
+
+}

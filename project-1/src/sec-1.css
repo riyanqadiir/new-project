@@ -1,0 +1,9 @@
+.sec-1{
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    height: 360px;
+    margin-top: 2rem;
+}
